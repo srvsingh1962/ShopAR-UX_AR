@@ -1,4 +1,5 @@
-# ShopAR - UX_AR
+# ShopAR - UX_AR ([Video](https://youtu.be/cJV9hC-p42M))
+
 Worked on building the prototype of the case study :Improving the Amazon Augmented Reality mobile shopping experience (https://www.mukulagarwal.com/work/amazon). As UX Plays the most important role for any AR experience and it can be said UX is the heart of a great AR experience.
 
 ☝️ The major problem in concern was:
@@ -9,3 +10,6 @@ Worked on building the prototype of the case study :Improving the Amazon Augment
 1. Giving information about the 3D model to the user that it is in FOV.
 2. As the 3D cursor will be oblique to the camera for a larger distance and will not be visible to the customer so added the wave/folding effect to the cursor.
 3. Pinch scale and twist rotate on the 3D model.
+
+https://user-images.githubusercontent.com/56843128/126451848-967d0a8a-248f-4d6a-a5b8-a5684bf8df31.mp4
+
